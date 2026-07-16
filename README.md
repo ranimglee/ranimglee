@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/ranim-abassi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=f9a8d4&labelColor=0d1117&color=f9a8d4" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:ranim.abassi20@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f9a8d4&labelColor=0d1117&color=f9a8d4" alt="Email" />
 </a>
 <a href="https://github.com/ranimglee" target="_blank">
@@ -29,11 +29,7 @@
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation placeholder" src="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake.svg">
-</picture>
+<sub>Scroll down for my GitHub contribution arcade.</sub>
 
 </div>
 
@@ -237,7 +233,37 @@ I use modern tools, including AI-assisted workflows, to move faster while keepin
 
 ---
 
-## Activity
+## Contribution Arcade
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=F9A8D4&center=true&vCenter=true&width=760&lines=Every+commit+is+a+move+on+the+board.;Building+systems%2C+shipping+features%2C+leveling+up.;GitHub+activity%2C+but+make+it+arcade." alt="Contribution arcade typing animation" />
+
+<br/><br/>
+
+### Pac-Man Contribution Run
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man style contribution graph animation" src="https://raw.githubusercontent.com/ranimglee/ranimglee/output/pacman-contribution-graph.svg">
+</picture>
+
+<br/><br/>
+
+### Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake.svg">
+  <img alt="Snake game style contribution graph animation" src="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## Activity Map
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranimglee&bg_color=0d1117&color=fce7f3&line=f9a8d4&point=f0abfc&area=true&area_color=7f1d56&hide_border=true" alt="GitHub activity graph" />
@@ -259,13 +285,13 @@ Scalable backend systems    Observability and monitoring
 
 ### Let's build elegant systems that actually scale.
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/ranim-abassi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-f9a8d4?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" alt="LinkedIn" />
 </a>
 <a href="https://portfolioranimabassi.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-f0abfc?style=for-the-badge&logo=netlify&logoColor=0d1117&labelColor=0d1117" alt="Portfolio" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:ranim.abassi20@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-fbcfe8?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" alt="Email" />
 </a>
 
