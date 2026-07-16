@@ -129,13 +129,13 @@ I use modern tools, including AI-assisted workflows, to move faster while keepin
 
 ### Afaq Gulf Coop Website
 > Modern responsive web experience.
-
-- **Stack**: React, Next.js, TypeScript
+- **Website**: [afaqgulfcoop.com](https://afaqgulfcoop.com/)
+- **Stack**: React, Spring Boot, TypeScript, MongoDB
 - **Scope**: Full-stack and web development contribution
 - **Engineering**: Content architecture, SEO considerations, analytics integration, and responsive UI
 
 [![React](https://img.shields.io/badge/React-f9a8d4?style=flat-square&logo=react&logoColor=0d1117)](https://github.com/ranimglee)
-[![Next.js](https://img.shields.io/badge/Next.js-f0abfc?style=flat-square&logo=nextdotjs&logoColor=0d1117)](https://github.com/ranimglee)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-f9a8d4?style=flat-square&logo=springboot&logoColor=0d1117)](https://github.com/ranimglee)
 [![TypeScript](https://img.shields.io/badge/TypeScript-fbcfe8?style=flat-square&logo=typescript&logoColor=0d1117)](https://github.com/ranimglee)
 
 </td>
@@ -174,9 +174,8 @@ I use modern tools, including AI-assisted workflows, to move faster while keepin
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Databases" />
 </p>
-
 ### DevOps & Observability
 <p>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github,maven,prometheus,grafana&theme=dark" alt="DevOps tools" />
@@ -223,15 +222,6 @@ I use modern tools, including AI-assisted workflows, to move faster while keepin
 
 </div>
 
----
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranimglee&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
-</div>
-
----
 
 ## Contribution Arcade
 
@@ -251,23 +241,6 @@ I use modern tools, including AI-assisted workflows, to move faster while keepin
 
 <br/><br/>
 
-### Breakout Contribution Game
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/breakout-contribution-graph.svg">
-  <img alt="Breakout game style contribution graph animation" src="https://raw.githubusercontent.com/ranimglee/ranimglee/output/breakout-contribution-graph.svg">
-</picture>
-
-<br/><br/>
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake.svg">
-  <img alt="Snake game style contribution graph animation" src="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake.svg">
-</picture>
 
 </div>
 
