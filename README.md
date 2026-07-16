@@ -1,88 +1,205 @@
 <div align="center">
 
-# Hi, I'm Ranim Abassi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:7f1d56,100:f9a8d4&height=220&section=header&text=Ranim%20Abassi&fontSize=62&fontColor=ffe4f3&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full%20Stack%20Developer%20%C2%B7%20DevOps%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ranim Abassi profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineer;Full+Stack+Developer;DevOps+Enthusiast;Cloud+%26+Automation+Lover" alt="Typing animation introducing Ranim Abassi" />
+<br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ranimglee&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Engineering-Clean%20Architecture-1f6feb?style=for-the-badge" alt="Clean architecture badge" />
-  <img src="https://img.shields.io/badge/Mindset-Automation%20First-238636?style=for-the-badge" alt="Automation first badge" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=F9A8D4&center=true&vCenter=true&width=720&lines=I+build+clean%2C+scalable+software.;Full-stack+engineering+with+DevOps+energy.;Cloud%2C+automation%2C+architecture%2C+and+craft.;Turning+ideas+into+reliable+systems.)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://portfolioranimabassi.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=f9a8d4&labelColor=0d1117&color=f9a8d4" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f9a8d4&labelColor=0d1117&color=f9a8d4" alt="Email" />
+</a>
+<a href="https://github.com/ranimglee" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=f9a8d4&labelColor=0d1117&color=f9a8d4" alt="GitHub" />
+</a>
+<a href="https://portfolioranimabassi.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=netlify&logoColor=f9a8d4&labelColor=0d1117&color=f9a8d4" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ranimglee&style=flat-square&color=f9a8d4&label=Profile+Views" alt="Profile views" />
+<img src="https://img.shields.io/badge/Focus-Clean%20Architecture-f9a8d4?style=flat-square&labelColor=0d1117" alt="Clean architecture" />
+<img src="https://img.shields.io/badge/Mindset-Automation%20First-f0abfc?style=flat-square&labelColor=0d1117" alt="Automation first" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation placeholder" src="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## Engineering Profile
+## About Me
 
-I build modern software solutions combining clean code, automation, and scalable architectures.
+```yaml
+name       : Ranim Abassi
+role       : Software Engineer | Full Stack Developer | DevOps Enthusiast
+education  : Software Engineering degree, EUR-ACE accredited program
+school     : ESPRIT Tunisia
+portfolio  : https://portfolioranimabassi.netlify.app/
 
-I am a **Software Engineer** and **Full Stack Developer** with an engineering background from **ESPRIT Tunisia** through a **EUR-ACE accredited software engineering program**. My work is shaped by backend reliability, frontend clarity, DevOps culture, cloud awareness, and a practical mindset for building systems that are easier to deploy, observe, and evolve.
+mission    : Build modern software solutions with clean code,
+             automation, and scalable architecture.
 
-My focus is not only shipping features. I care about the engineering behind them: API design, containerized environments, CI/CD pipelines, code quality, monitoring, maintainability, and the decisions that help software survive real-world change.
+focus      : Full-stack applications, backend reliability,
+             DevOps culture, cloud-aware systems, and observability.
+
+style      : Elegant interfaces, structured systems, practical automation,
+             and engineering decisions that make products easier to evolve.
+```
 
 ---
 
 ## Engineering Philosophy
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>Clean Code, Clear Systems</h3>
-      <p>I value readable code, explicit boundaries, maintainable APIs, and architecture that supports growth instead of fighting it.</p>
-    </td>
-    <td width="50%">
-      <h3>Automation First</h3>
-      <p>From Dockerized environments to CI/CD pipelines, I prefer repeatable workflows that reduce friction and make delivery more reliable.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Build Solutions, Not Just Features</h3>
-      <p>I look at product needs, technical constraints, user experience, deployment, and observability as one connected engineering problem.</p>
-    </td>
-    <td width="50%">
-      <h3>Continuous Improvement</h3>
-      <p>I keep refining how I build: better tests, better monitoring, better architecture, and smarter use of AI-assisted engineering workflows.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Clean Code, Soft Edges
+Readable code, clear responsibilities, maintainable APIs, and interfaces that feel intentional.
+
+</td>
+<td width="50%" valign="top">
+
+### Automation First
+Dockerized environments, CI/CD workflows, quality gates, and repeatable delivery habits.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Architecture With Taste
+I care about the structure behind the feature: data, deployment, observability, and long-term change.
+
+</td>
+<td width="50%" valign="top">
+
+### Build, Learn, Refine
+I use modern tools, including AI-assisted workflows, to move faster while keeping engineering standards high.
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Tech Arsenal
+## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Confledis Platform
+> Food and restauration management platform.
+
+- **Stack**: Symfony, Angular, Docker Compose, PostgreSQL, Adminer, Caddy
+- **Scope**: Full-stack development and backend/frontend integration
+- **Engineering**: Containerized architecture with connected services and database tooling
+
+[![Symfony](https://img.shields.io/badge/Symfony-f9a8d4?style=flat-square&logo=symfony&logoColor=0d1117)](https://github.com/ranimglee)
+[![Angular](https://img.shields.io/badge/Angular-f0abfc?style=flat-square&logo=angular&logoColor=0d1117)](https://github.com/ranimglee)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-fbcfe8?style=flat-square&logo=postgresql&logoColor=0d1117)](https://github.com/ranimglee)
+
+</td>
+<td width="50%" valign="top">
+
+### Spring Boot DevOps Project
+> Backend application shaped around delivery, quality, and monitoring.
+
+- **Stack**: Spring Boot, MySQL, Docker, Jenkins, Maven, Jacoco
+- **Pipeline**: SonarQube, Nexus, DockerHub, Prometheus, Grafana
+- **Engineering**: CI/CD concepts, code quality analysis, container deployment, and observability
+
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-f9a8d4?style=flat-square&logo=springboot&logoColor=0d1117)](https://github.com/ranimglee)
+[![Jenkins](https://img.shields.io/badge/Jenkins-f0abfc?style=flat-square&logo=jenkins&logoColor=0d1117)](https://github.com/ranimglee)
+[![Grafana](https://img.shields.io/badge/Grafana-fbcfe8?style=flat-square&logo=grafana&logoColor=0d1117)](https://github.com/ranimglee)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Afaq Gulf Coop Website
+> Modern responsive web experience.
+
+- **Stack**: React, Next.js, TypeScript
+- **Scope**: Full-stack and web development contribution
+- **Engineering**: Content architecture, SEO considerations, analytics integration, and responsive UI
+
+[![React](https://img.shields.io/badge/React-f9a8d4?style=flat-square&logo=react&logoColor=0d1117)](https://github.com/ranimglee)
+[![Next.js](https://img.shields.io/badge/Next.js-f0abfc?style=flat-square&logo=nextdotjs&logoColor=0d1117)](https://github.com/ranimglee)
+[![TypeScript](https://img.shields.io/badge/TypeScript-fbcfe8?style=flat-square&logo=typescript&logoColor=0d1117)](https://github.com/ranimglee)
+
+</td>
+<td width="50%" valign="top">
+
+### Personal Portfolio
+> A curated view of my projects and engineering journey.
+
+- **Website**: [portfolioranimabassi.netlify.app](https://portfolioranimabassi.netlify.app/)
+- **Scope**: Personal branding and technical project presentation
+- **Engineering**: Responsive web experience with a clear project narrative
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-f9a8d4?style=flat-square&logo=netlify&logoColor=0d1117)](https://portfolioranimabassi.netlify.app/)
+[![Web](https://img.shields.io/badge/Responsive%20Web-f0abfc?style=flat-square&logoColor=0d1117)](https://portfolioranimabassi.netlify.app/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=java,php,ts,js,html,css&theme=dark" alt="Languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,ts,js,html,css&theme=dark" alt="Languages" />
+</p>
 
-### Backend & Frontend
-<img src="https://skillicons.dev/icons?i=spring,symfony,angular,react,nextjs,nodejs&theme=dark" alt="Frameworks" />
+### Web, Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,symfony,angular,react,nextjs,nodejs&theme=dark" alt="Web and backend frameworks" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST%20APIs-f9a8d4?style=for-the-badge&labelColor=0d1117" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Microservices%20Concepts-f0abfc?style=for-the-badge&labelColor=0d1117" alt="Microservices concepts" />
+</p>
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Databases" />
+</p>
 
-### DevOps, Cloud & Tooling
-<img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github,aws,kubernetes,maven,prometheus,grafana&theme=dark" alt="DevOps and cloud tools" />
+### DevOps & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github,maven,prometheus,grafana&theme=dark" alt="DevOps tools" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SonarQube-f9a8d4?style=for-the-badge&logo=sonarqube&logoColor=0d1117&labelColor=0d1117" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Nexus-f0abfc?style=for-the-badge&logoColor=0d1117&labelColor=0d1117" alt="Nexus" />
+</p>
 
-</div>
+### Cloud & Productivity
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes&theme=dark" alt="Cloud tools" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OVH%20Cloud-f9a8d4?style=for-the-badge&logo=ovh&logoColor=0d1117&labelColor=0d1117" alt="OVH Cloud" />
+  <img src="https://img.shields.io/badge/Claude-f0abfc?style=for-the-badge&labelColor=0d1117" alt="Claude" />
+  <img src="https://img.shields.io/badge/Codex-fbcfe8?style=for-the-badge&labelColor=0d1117" alt="Codex" />
+</p>
 
 <details>
-<summary><b>Expanded Stack Map</b></summary>
+<summary><b>Expanded technical map</b></summary>
 
 | Domain | Technologies |
 | --- | --- |
@@ -97,145 +214,63 @@ My focus is not only shipping features. I care about the engineering behind them
 
 ---
 
-## Featured Projects
+## GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Confledis Platform</h3>
-      <p><b>Food and restauration management platform</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-        <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </p>
-      <p>Full-stack development with backend/frontend integration, containerized services, PostgreSQL persistence, Adminer database access, and Caddy-based routing.</p>
-      <p><b>Engineering focus:</b> containerized architecture, service integration, reliable local environments.</p>
-      <p><a href="https://github.com/ranimglee/CONFLEDIS_REPOSITORY_PLACEHOLDER">GitHub link placeholder</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Spring Boot DevOps Project</h3>
-      <p><b>Backend application with DevOps delivery workflow</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-        <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-      </p>
-      <p>Implemented CI/CD pipeline concepts with Maven builds, Jacoco coverage, SonarQube quality analysis, Nexus artifact management, DockerHub deployment flow, and monitoring with Prometheus and Grafana.</p>
-      <p><b>Engineering focus:</b> quality gates, automation, observability, container deployment.</p>
-      <p><a href="https://github.com/ranimglee/SPRING_BOOT_DEVOPS_REPOSITORY_PLACEHOLDER">GitHub link placeholder</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Afaq Gulf Coop Website</h3>
-      <p><b>Modern responsive web experience</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      </p>
-      <p>Full-stack and web development contribution focused on responsive interface implementation, content architecture, SEO considerations, and analytics integration.</p>
-      <p><b>Engineering focus:</b> performance-aware frontend, structured content, modern web delivery.</p>
-      <p><a href="https://github.com/ranimglee/AFAQ_GULF_COOP_REPOSITORY_PLACEHOLDER">GitHub link placeholder</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Personal Portfolio</h3>
-      <p><b>Project and engineering journey showcase</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-        <img src="https://img.shields.io/badge/Web-Responsive-58A6FF?style=flat-square" alt="Responsive web" />
-      </p>
-      <p>A personal portfolio highlighting selected work, technical direction, and the evolution of my software engineering path.</p>
-      <p><b>Engineering focus:</b> personal branding, project presentation, accessible web experience.</p>
-      <p><a href="https://portfolioranimabassi.netlify.app/">Visit portfolio</a></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranimglee&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=f9a8d4&text_color=fce7f3&icon_color=f0abfc&ring_color=f9a8d4" alt="Ranim's GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimglee&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f9a8d4&text_color=fce7f3" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ranimglee&hide_border=true&background=0d1117&stroke=f9a8d4&ring=f9a8d4&fire=f0abfc&currStreakNum=fce7f3&sideNums=fce7f3&currStreakLabel=f9a8d4&sideLabels=f0abfc&dates=fbcfe8" alt="GitHub streak" />
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ranimglee&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranimglee&bg_color=0d1117&color=fce7f3&line=f9a8d4&point=f0abfc&area=true&area_color=7f1d56&hide_border=true" alt="GitHub activity graph" />
+</div>
 
 ---
 
 ## Currently Exploring
 
 ```text
-Cloud architecture                  Kubernetes
-DevOps automation                   AI-assisted software engineering
-Scalable backend systems            Better observability practices
+Cloud architecture          Kubernetes
+DevOps automation           AI-assisted software engineering
+Scalable backend systems    Observability and monitoring
 ```
 
-<details>
-<summary><b>What I am sharpening next</b></summary>
-
-- Designing backend systems with clearer boundaries and stronger deployment paths.
-- Building CI/CD workflows that combine testing, quality analysis, artifact management, and deployment.
-- Deepening Kubernetes and cloud architecture fundamentals.
-- Using AI engineering tools thoughtfully to accelerate development without lowering technical standards.
-
-</details>
-
 ---
-
-## GitHub Intelligence
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ranimglee&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Ranim's GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimglee&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+### Let's build elegant systems that actually scale.
 
-<br />
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-f9a8d4?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" alt="LinkedIn" />
+</a>
+<a href="https://portfolioranimabassi.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-f0abfc?style=for-the-badge&logo=netlify&logoColor=0d1117&labelColor=0d1117" alt="Portfolio" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-fbcfe8?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" alt="Email" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=ranimglee&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<br/><br/>
 
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=ranimglee&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies" />
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranimglee&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-
-</div>
-
----
-
-## Contribution Flow
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation placeholder" src="https://raw.githubusercontent.com/ranimglee/ranimglee/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_USERNAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder" />
-  </a>
-  <a href="https://portfolioranimabassi.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-portfolioranimabassi.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-YOUR_EMAIL%40example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email placeholder" />
-  </a>
-</p>
-
-<p><b>Software engineering is where product thinking, architecture, automation, and craft meet.</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9a8d4,50:7f1d56,100:0d1117&height=120&section=footer" width="100%" alt="Footer wave" />
 
 </div>
