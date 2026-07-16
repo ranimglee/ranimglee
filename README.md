@@ -251,6 +251,16 @@ I use modern tools, including AI-assisted workflows, to move faster while keepin
 
 <br/><br/>
 
+### Breakout Contribution Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranimglee/ranimglee/output/breakout-contribution-graph.svg">
+  <img alt="Breakout game style contribution graph animation" src="https://raw.githubusercontent.com/ranimglee/ranimglee/output/breakout-contribution-graph.svg">
+</picture>
+
+<br/><br/>
+
 ### Contribution Snake
 
 <picture>

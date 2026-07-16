@@ -11,29 +11,24 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     permissions:
       contents: write
 
     steps:
-      - name: Generate snake contribution graph
+      - name: Generate snake contribution graph SVGs
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ranimglee
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Generate Pac-Man contribution graph
+      - name: Generate arcade contribution graph SVGs
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ranimglee
-
-      - name: Move Pac-Man assets into dist
-        shell: bash
-        run: |
-          mkdir -p dist
-          if [ -f pacman-contribution-graph.svg ]; then mv pacman-contribution-graph.svg dist/pacman-contribution-graph.svg; fi
-          if [ -f pacman-contribution-graph-dark.svg ]; then mv pacman-contribution-graph-dark.svg dist/pacman-contribution-graph-dark.svg; fi
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman,breakout"
 
       - name: Publish arcade assets
         uses: crazy-max/ghaction-github-pages@v4
